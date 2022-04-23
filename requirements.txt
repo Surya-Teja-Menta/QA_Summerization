@@ -1,6 +1,9 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch 
+torchvision 
+torchaudio
 streamlit
 transformers
-pytorch
-wikipediaapi
+Wikipedia-API
 requests
-BeautifulSoup
+bs4
