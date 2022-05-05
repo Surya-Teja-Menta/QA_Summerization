@@ -49,3 +49,32 @@ Run the app:
 streamlit run app.py
 ```
 
+## Output:
+---
+- start the app by running the above command.You can see the output in the browser. You have to choose between Paraphrasing and Summerization. The default mode is Paraphrasing.<br>
+<center><img src="images/1.png" width = 550></center>
+
+- You can choose the mode by clicking on radio button and provide the input. <br>
+<center><img src="images/2.png" width = 550></center>
+
+- You will get output in paraphrasing mode after asking question. <br>
+<center><img src="images/3.png" width = 550></center>
+
+- In the same way you can choose in summerization mode. lets take blog/news article mode <br>
+<center><img src="images/4.png" width = 550></center>
+
+- You will get output in summerization mode after asking question. <br>
+<center><img src="images/5.png" width = 550></center>
+
+## Note:
+- You can select the different types of models using pipeline, if you didn't select the pipeline, the default model will be used.
+
+
+---
+Happy Coding!
+
+
+
+
+
+
